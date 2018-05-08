@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-steven-kim-executor",
+    "name": "workshop-ws-5-8-aws-steven-kim",
+    "region": "us-east-2"
+  }
+}
